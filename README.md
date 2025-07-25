@@ -1,3 +1,3 @@
 # odin-recipes
 
-Hi
+This is a basic recipe website built with HTML
